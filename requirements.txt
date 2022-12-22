@@ -1,0 +1,8 @@
+numpy
+streamlit
+base64
+pandas
+nltk
+nltk.download('wordnet') 
+streamlit_folium
+folium
