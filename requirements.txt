@@ -2,7 +2,6 @@ numpy
 streamlit
 base64
 pandas
-nltk
-nltk.download('wordnet') 
+nltk==3.5
 streamlit_folium
 folium
