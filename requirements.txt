@@ -1,6 +1,5 @@
 numpy
 streamlit
-base64
 pandas
 nltk==3.5
 streamlit_folium
