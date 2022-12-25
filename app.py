@@ -3,6 +3,7 @@ import streamlit as st
 import base64
 import nltk
 nltk.download('wordnet')
+nltk.download('punkt')
 import numpy as np
 import pandas as pd
 from nltk.corpus import stopwords
